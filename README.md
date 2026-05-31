@@ -71,15 +71,15 @@ Burn injuries require fast and accurate diagnosis. Manual classification is subj
 ## 📊 Visual Results
 
 ### 🔹 Confusion Matrix
-![Confusion Matrix](results/Confusion%20Matrix.png)
+![Confusion Matrix](Results/Confusion%20Matrix.png)
 
 ### 🔹 Training Loss
-![Training Loss](results/Training%20loss.png)
+![Training Loss](Results/Training%20loss.png)
 
 ### 🔹 Detection Results
-![Results](results/Results.png)
-![Results](results/results_.png)
-![Results](results/_results.png)
+![Results](Results/Results.png)
+![Results](Results/results_.png)
+![Results](Results/_results.png)
 
 
 ## 🚀 Inference (Testing on Images)
