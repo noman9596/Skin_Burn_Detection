@@ -1,0 +1,11 @@
+
+path: /kaggle/input/datasets/nomi6677/skin-burn-classification-with-degreess/basedataset
+
+train: train/images
+val: valid/images
+test: test/images
+
+names:
+  0: first_degree
+  1: second_degree
+  2: third_degree
