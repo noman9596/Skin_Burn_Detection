@@ -74,7 +74,7 @@ Burn injuries require fast and accurate diagnosis. Manual classification is subj
 ![Confusion Matrix](Results/Confsion_Matrix.png)
 
 ### 🔹 Training Loss
-![Training Loss](Loss/.png)
+![Training Loss](Results/Loss.png)
 
 ### 🔹 Detection Results
 ![Results](Results/Results.png)
